@@ -5,4 +5,4 @@
 
 模拟器的效果图
 
-![myGif.gif](http://upload-images.jianshu.io/upload_images/3643442-f56d9f9a11bde30e.gif?imageMogr2/auto-orient/strip)
+![myGif.gif](http://upload-images.jianshu.io/upload_images/3643442-93a77582c937f7d6.gif?imageMogr2/auto-orient/strip)
